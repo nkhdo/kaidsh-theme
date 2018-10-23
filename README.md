@@ -1,3 +1,6 @@
+# NOTICE:
+This is a customized version of @kathyqian's Crisp theme. Please refer to the original repo: https://github.com/kathyqian/crisp
+
 # Crisp
 
 A minimalist, responsive, and open-source theme for [Ghost](http://ghost.org) by [Kathy Qian](http://kathyqian.com). Last tested with Ghost v2.1.1. For the last version tested with pre-2.0 Ghost releases, see the [ghost-sub-2](https://github.com/kathyqian/crisp/tree/ghost-sub-2) branch.
